@@ -7,3 +7,7 @@ C:\Program Files\Java\jdk-11
 com.auth0.jwt.exceptions.JWTDecodeException: The token was expected to have 3 parts, but got 1.
 
 
+
+追加した内容。
+
+
