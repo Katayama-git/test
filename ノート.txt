@@ -1,0 +1,9 @@
+C:\Program Files\Java\jdk-11
+
+
+2024-05-31 09:10:54.293 ERROR 23628 --- [nio-8080-exec-4] o.a.c.c.C.[.[.[/].[dispatcherServlet]    :
+ Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+
+com.auth0.jwt.exceptions.JWTDecodeException: The token was expected to have 3 parts, but got 1.
+
+
