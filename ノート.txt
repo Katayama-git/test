@@ -15,5 +15,3 @@ com.auth0.jwt.exceptions.JWTDecodeException: The token was expected to have 3 pa
 分岐させたい。
 
 main
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1vgtOsKjuIF5Wm_I3DMEYzeAxFz_XCl4&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
